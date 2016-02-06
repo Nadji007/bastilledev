@@ -1,0 +1,4 @@
+Gestion de biblio bastille
+
+-- A mettre sur fb  une proposition de plusiers noms de l'appli pour la gestion de biblio
+-- bookshare
